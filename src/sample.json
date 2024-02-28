@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Azerbaijan launches operation against Nagorno-Karabakh",
+            "description": "The defence ministry begins \"anti-terrorist\" operations in its breakaway region under Armenian control.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66851975",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EF44/production/_131125216_c64bc772-5d64-4276-9130-80bcd0aa6bbe.jpg",
+            "publishedAt": "2023-09-19T11:07:20.5612638Z",
+            "content": "Azerbaijan's defence ministry says it has begun \"anti-terrorist\" operations in its breakaway region of Nagorno-Karabakh, under Armenian control.\r\nTensions have been high for months surrounding the et… [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Five Americans freed in Iran prisoner swap land in US",
+            "description": "The four men and one woman return to the US after $6bn of frozen Iranian funds were released.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66850811",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5D3F/production/_131117832_2_siamak_namazi_morad-tahbaz_emad_shargi.jpg",
+            "publishedAt": "2023-09-19T11:07:18.4680356Z",
+            "content": "Media caption, Watch: Moment five Americans freed from Iran change planes in Qatar\r\nA plane carrying five Americans jailed in Iran for years has landed in the US after a controversial prisoner swap.\r… [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ovidio Guzmán: Drug lord El Chapo's son pleads not guilty",
+            "description": "A US court has accused Ovidio Guzmán of drug-trafficking and money-laundering, which he denies.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-66853111",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EF58/production/_131127216_c88ada7a93742293929844fd9353670fd2cd435f0_0_2560_14401000x563.jpg",
+            "publishedAt": "2023-09-19T10:52:21.4587775Z",
+            "content": "The son of jailed Mexican drug lord Joaquín El Chapo Guzmán has pleaded not guilty to drug-trafficking and money-laundering charges in the US.\r\nOvidio Guzmán, 33, was extradited from Mexico to the Un… [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Why are some Sikhs calling for a separate homeland in India?",
+            "description": "The killing of a separatist activist in Canada stokes tensions between India and diaspora Sikh communities.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-66852291",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/121BC/production/_131127147_gettyimages-1515202570.jpg",
+            "publishedAt": "2023-09-19T10:52:20.2715732Z",
+            "content": "Diplomatic tensions over calls for a separate state for Sikhs in India have escalated, after Canada said it was looking at \"credible allegations potentially linking\" the Indian state to the murder of… [+4521 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "United Nations General Assembly leaders look for unity over crises",
+            "description": "Many of those gathering in New York will want to prioritise climate change over the war in Europe.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66846608",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13652/production/_131124497_gettyimages-1689002334.jpg",
+            "publishedAt": "2023-09-19T08:07:21.8784604Z",
+            "content": "It is called the United Nations - but right now it seems anything but united. \r\nThe 140 or so world leaders gathering in New York for their annual assembly have a lot on their plate: Russia's invasio… [+5376 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "India-Canada row ramps up as Delhi denies killing Sikh leader",
+            "description": "The two countries carry out tit-for-tat diplomatic expulsions after Justin Trudeau suggests Indian agents may have shot a Canadian Sikh leader.",
+            "url": "http://www.bbc.co.uk/news/live/world-66851939",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-09-19T07:52:18.2017441Z",
+            "content": "On Monday, Canada PM Justin Trudeau informed parliament that the country's intelligence agencies were investigating whether India had killed a Canadian citizen on Canadian soil.\r\nHardeep Singh Nijjar… [+1105 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Watch: Police smash car window to save flood-trapped man",
+            "description": "Video footage shows an officer wading through waist-deep water and using a baton to smash a window.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66847675",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6DF8/production/_131125182_p0gfd2fj.jpg",
+            "publishedAt": "2023-09-19T06:52:14.7654749Z",
+            "content": "A police officer in Atlanta, in the US, waded through waist-deep water to rescue a motorist trapped in floodwater.\r\nOfficers had been dealing with a string of emergencies caused by the heavy rain, on… [+399 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elon Musk: Social media platform X could go behind paywall",
+            "description": "The billionaire suggested the social media platform, now called X, could charge for use of \"the system\".",
+            "url": "http://www.bbc.co.uk/news/technology-66850821",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B88A/production/_131124274_gettyimages-1672488172.jpg",
+            "publishedAt": "2023-09-19T02:22:17.958173Z",
+            "content": "Elon Musk has suggested that all users of X, formerly called Twitter, may have to pay for access to the platform.\r\nIn a conversation with Israeli Prime Minister Benjamin Netanyahu, the billionaire sa… [+2738 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump abortion backlash spotlights a Republican balancing act",
+            "description": "Donald Trump called Florida's six-week abortion ban a \"terrible mistake\". Conservative anger was swift.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66850451",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2BEA/production/_131124211_gettyimages-1673546015.jpg",
+            "publishedAt": "2023-09-19T01:52:15.6576667Z",
+            "content": "After Donald Trump labelled Florida's six-week abortion ban a \"terrible mistake\", he opened himself to attack from powerful conservative activists who want to ban the procedure nationwide. But his co… [+5635 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Debris found in search for F-35 jet - authorities",
+            "description": "Debris found in search for F-35 military jet that went missing after pilot ejected over South Carolina - US officials",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66850422",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4557/production/_131115771_d5fdc179f4e4eb20eaf1a88884b20579e575435c.jpg",
+            "publishedAt": "2023-09-18T23:37:20.7027618Z",
+            "content": "Debris has been found in the search for an F-35 military jet that went missing after the pilot ejected over South Carolina, say US military officials.\r\nThe debris of the $100m (£80m) plane - which di… [+526 chars]"
+        }
+    ]
+}
